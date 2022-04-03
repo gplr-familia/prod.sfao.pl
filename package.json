@@ -1,0 +1,38 @@
+{
+  "name": "my-doctor-admin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fullcalendar/core": "^4.3.1",
+    "@fullcalendar/daygrid": "^4.3.0",
+    "@fullcalendar/interaction": "^4.3.0",
+    "@fullcalendar/react": "^4.3.0",
+    "@material-ui/core": "1.5.1",
+    "@material-ui/icons": "1.1.1",
+    "axios": "^0.19.0",
+    "date-fns": "2.0.0-beta.4",
+    "jwt-decode": "^2.2.0",
+    "material-ui-pickers": "^1.0.0-rc.17",
+    "moment": "^2.21.0",
+    "opentok-react": "^0.9.0",
+    "ra-input-rich-text": "^2.1.0",
+    "ra-language-polish": "^1.0.0",
+    "react": "^16.9.0",
+    "react-admin": "^2.9.6",
+    "react-admin-date-inputs": "^1.1.2",
+    "react-dom": "^16.9.0",
+    "react-intl": "^2.4.0",
+    "react-scripts": "1.1.4",
+    "recharts": "^1.7.1",
+    "recompose": "0.28.2"
+  },
+  "devDependencies": {
+    "react-admin-color-input": "^1.0.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
